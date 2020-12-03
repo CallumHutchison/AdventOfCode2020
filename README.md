@@ -5,4 +5,8 @@ https://adventofcode.com/
 
 ## Challenges
 ### Day 1 - Number Combinations
-Language used - python
+Python
+### Day 2 - Password Rules
+Javascript w/ Node
+### Day 3 - Tree Counting
+Java
