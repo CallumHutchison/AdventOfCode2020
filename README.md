@@ -12,3 +12,5 @@ Language - Javascript w/ node.js
 Language - Java
 ### Day 4 - [Passport Validation](https://adventofcode.com/2020/day/4)
 Language - Elixir
+### Day 5 - [Binary Space Partioning](https://adventofcode.com/2020/day/5)
+Language - Java, using Test Driven Development
