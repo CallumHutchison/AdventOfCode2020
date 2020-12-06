@@ -14,3 +14,5 @@ Language - Java
 Language - Elixir
 ### Day 5 - [Binary Space Partioning](https://adventofcode.com/2020/day/5)
 Language - Java, using Test Driven Development
+### Day 6 - [Letter Counting](https://adventofcode.com/2020/day/6)
+Language - Elixir, with Testing
