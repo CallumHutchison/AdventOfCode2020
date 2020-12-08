@@ -16,3 +16,7 @@ Language - Elixir
 Language - Java, using Test Driven Development
 ### Day 6 - [Letter Counting](https://adventofcode.com/2020/day/6)
 Language - Elixir, with Testing
+### Day 7 - [Luggage Processing](https://adventofcode.com/2020/day/7)
+Language - Java
+### Day 8 - [Virtual Computer](https://adventofcode.com/2020/day/8)
+Language - Java, focusing on polymorphism
