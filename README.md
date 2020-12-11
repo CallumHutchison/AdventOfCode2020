@@ -20,3 +20,5 @@ Language - Elixir, with Testing
 Language - Java
 ### Day 8 - [Virtual Computer](https://adventofcode.com/2020/day/8)
 Language - Java, focusing on polymorphism
+### Day 9 - [Vulnerabilities](https://adventofcode.com/2020/day/9)
+Language - Elixir
